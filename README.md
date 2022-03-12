@@ -1,6 +1,9 @@
 # THE LUSAKA FASHION WEEK
 
-> A website for the annual Lusaka Fashon week. 
+> A website for the annual Lusaka Fashion week. 
+>Based on what we have learned in the past for modules i was able to impliment the skills learnt to develop a webstite for 
+>The annual Lusaka fashion week.
+>the website has the home page and a link to the about page
 
 
 ## Built With
@@ -9,23 +12,33 @@
 - CSS
 - Javascript
 
-## Live Demo
-[Live Demo Link](https://wuletawwonte.github.io/web-development-course)
-![Web Development Course](https://user-images.githubusercontent.com/12524453/157881717-9fae4966-65b1-41a7-92ca-ba04deeed176.png)
+## Screenshot
+* Desktop
+
+![Screenshot from 2022-03-11](./images/desktop1.png)
+
+* Mobile version
+
+![Screenshot from 2022-03-11](./images/mobile1.png)
+
+
+
+## Live Site URL: 
+
+- https://misheck12.github.io/Concert-capstone/index.ht
 
 ## Setup
 
 1. Clone the project from github and run "npm start" command and it will run the project localy.
 
 
-## Authors
+## Author
 
-👤 **Wuletaw Wonte**
+👤 **David Lyangenda**
 
-- GitHub: [@wuletawwonte](https://github.com/wuletawwonte)
-- Twitter: [@wuletaww](https://twitter.com/wuletaww)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/wuletaw-wonte)
-### Contributors
+- GitHub: [@Lyangenda](https://github.com/LYANGEND)
+- Twitter: [@Lyangenda](https://twitter.com/david_lyangenda)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/david-lyangenda-623087151/)
 
 
 ## 🤝 Contributing

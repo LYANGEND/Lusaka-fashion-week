@@ -21,15 +21,15 @@ const trainers = [
       'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys',
   },
   {
-    image: './images/trainers/kaleab_mezgebu.jpg',
-    name: 'Kaleab Mezgebu',
+    image: './images/trainers/designer4.jpeg',
+    name: 'Shub Walenda',
     position: 'Founder LTS Tailoring',
     about:
       'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys',
   },
   {
-    image: './images/trainers/abraham_asfaw.jpg',
-    name: 'Abraham Asfaw',
+    image: './images/trainers/designer3.jpg',
+    name: 'Lucky Lamba',
     position: 'Fashion Journalist',
     about:
       'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys',
