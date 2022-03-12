@@ -25,7 +25,7 @@
 
 ## Live Site URL: 
 
-- https://misheck12.github.io/Concert-capstone/index.ht
+- https://lyangend.github.io/Capstone-Lusaka-fashion-week/
 
 ## Setup
 
