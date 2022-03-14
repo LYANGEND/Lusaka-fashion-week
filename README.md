@@ -1,56 +1,45 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+# THE LUSAKA FASHION WEEK
 
-# Project Name
-
-> Description the project.
+> A website for the annual Lusaka Fashion week. 
+>Based on what we have learned in the past for modules i was able to impliment the skills learnt to develop a webstite for 
+>The annual Lusaka fashion week.
+>the website has the home page and a link to the about page
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML
+- CSS
+- Javascript
 
-## Live Demo (if available)
+## Screenshot
+* Desktop
 
-[Live Demo Link](https://livedemo.com)
+![Screenshot from 2022-03-11](./images/desktop1.png)
 
+* Mobile version
 
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
+![Screenshot from 2022-03-11](./images/mobile1.png)
 
 
 
-## Authors
+## Live Site URL: 
 
-👤 **Author1**
+- https://lyangend.github.io/Capstone-Lusaka-fashion-week/
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+## Setup
 
-👤 **Author2**
+1. Clone the project from github and run "npm start" command and it will run the project localy.
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+
+## Author
+
+👤 **David Lyangenda**
+
+- GitHub: [@Lyangenda](https://github.com/LYANGEND)
+- Twitter: [@Lyangenda](https://twitter.com/david_lyangenda)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/david-lyangenda-623087151/)
+
 
 ## 🤝 Contributing
 
@@ -64,10 +53,10 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- README template from [Microverse](https://github.com/microverseinc/readme-template)
+- Linter setup from [Microverse](https://github.com/microverseinc/linters-config/tree/master/html-css)
+- Based on this [beautiful design](<https://www.behance.net/gallery/29845175/CC-Global-Summit-2015>) by [Cindy Shin](<https://www.behance.net/adagio07>). Here is the [Creative Commons License of the design](<https://creativecommons.org/licenses/by-nc/4.0/>). 
 
 ## 📝 License
 
-This project is [MIT](./MIT.md) licensed.
+This project is **[MIT](./LICENSE.md)** licensed.
